@@ -1,0 +1,1 @@
+Este es el fichero 2 de la rama v0.2.
